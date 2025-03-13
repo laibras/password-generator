@@ -1,0 +1,26 @@
+# Arquivos e pastas do Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ambientes virtuais
+env/
+venv/
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Arquivos de teste e coverage
+*.cover
+*.coverage
+coverage.xml
+*.hypothesis/
+nosetests.xml
+
+# Arquivos de log
+*.log
+
+# Outros arquivos gerados
+.DS_Store
+Thumbs.db
