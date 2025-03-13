@@ -15,21 +15,22 @@ O **Password Generator** é um projeto em Python para gerar senhas seguras. Ele 
 
 1. Clone o repositório:
 
-   bash
+   ```bash
    git clone https://github.com/laibras/password-generator.git
    cd password-generator
 
-2. Execute o gerador de senhas:
+3. Execute o gerador de senhas:
 
-    bash
+    ```bash
     python src/generator.py
-    O programa pedirá para você inserir o comprimento da senha e se deseja incluir números e caracteres especiais.
+
+   O programa pedirá para você inserir o comprimento da senha e se deseja incluir números e caracteres especiais.
 
 ## Rodando os Testes
 
-O projeto utiliza o framework de testes unittest. Para rodar os testes, execute o seguinte comando:
+   O projeto utiliza o framework de testes unittest. Para rodar os testes, execute o seguinte comando:
 
-    bash
+    ```bash
     python -m unittest discover tests
 
 ## Estrutura do Projeto
@@ -46,11 +47,11 @@ O projeto utiliza o framework de testes unittest. Para rodar os testes, execute 
 
 ## Licença
 
-    Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Contribuindo
     
-    Se você gostaria de contribuir para este projeto, por favor, abra uma issue ou envie um pull request com suas sugestões ou melhorias.
+Se você gostaria de contribuir para este projeto, por favor, abra uma issue ou envie um pull request com suas sugestões ou melhorias.
 
 
 
